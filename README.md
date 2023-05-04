@@ -1,5 +1,5 @@
 # HK_Car_Ltd
-A term project of a full-stack web-based application
+A term project of a full-stack web-based application.
 
 Copyright (c) Herbert Lam & Karl Chau. All content of this website is unreal. All rights are reserved.
 
