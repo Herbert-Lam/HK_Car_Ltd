@@ -1,0 +1,62 @@
+#sections {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.car-type-link {
+  width: 49%;
+}
+
+.car-type:hover {
+  box-shadow: 0px 0px 10px#303030;
+}
+
+.car-type-img {
+  width: 100%;
+}
+
+.car-list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 40px 40px 20px;
+}
+
+.car-section {
+  width: 320px;
+  display: inline-block;
+  text-align: center;
+  margin: 20px;
+  padding-bottom: 5px;
+  pointer-events: auto;
+}
+
+.car-section:hover {
+  box-shadow: 0px 0px 10px#303030;
+}
+
+.year-model {
+  margin-top: 10px;
+  font-weight: 700;
+}
+
+.trim {
+  font-style: italic;
+}
+
+.car-details {
+  margin-bottom: 10px;
+}
+
+button{
+  display: inline;
+}
+
+#car-btn-group{
+  margin: 0 auto;
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+}

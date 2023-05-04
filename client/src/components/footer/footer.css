@@ -1,0 +1,48 @@
+#footer {
+  background-color: #DDD;
+  margin-top: 20px;
+}
+
+#footer-details {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 10px;
+  color: #444;
+}
+
+.footer-details-block {
+  padding-top: 20px;
+  font-size: 0.9vmax;
+  line-height: 1.8em;
+}
+
+.footer-title {
+  font-weight: 650;
+  color: #333;
+  margin-bottom: 5px;
+  font-size: 1.2vmax;
+}
+
+#follow-us-icon-div {
+  display: flex;
+  justify-content: space-between;
+  width: 180px;
+}
+
+.footer-link {
+  color: #444;
+}
+
+#office-hour-list {
+  margin-bottom: 0px;
+}
+
+#footer-content {
+  margin: 0px;
+  height: 100%;
+  line-height: 40px;
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  background-color: #BBB;
+}

@@ -1,0 +1,29 @@
+#aboutus-content-div {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+
+.content-p {
+  margin: 0px;
+  font-size: 1.3vmax;
+  line-height: 1.5em;
+  margin-bottom: 30px;
+}
+
+#cofounders {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.cofounder {
+  width: 25%;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 600;
+}

@@ -1,0 +1,377 @@
+[
+    {
+        "carId": "cf68ac7b-668a-420a-9e7d-dad42b53081d",
+        "year": 2023,
+        "model": "Model X1",
+        "trim": "Basic",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "FWD",
+        "transmission": "Manual",
+        "price": 30000,
+       "imgSrc": "model_x1"
+    },
+    {
+        "carId": "99c98580-bbaf-484c-b80e-5f403e540161",
+        "year": 2023,
+        "model": "Model X1",
+        "trim": "Touring",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "FWD",
+        "transmission": "Automatic",
+        "price": 32000,
+        "imgSrc": "model_x1"
+    },
+    {
+        "carId": "b5fdb972-fe26-492d-bb38-63f0fbf0a821",
+        "year": 2023,
+        "model": "Model X1",
+        "trim": "Advance",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 34000,
+        "imgSrc": "model_x1"
+    },
+    {
+        "carId": "90a66c38-0ae3-4c54-a007-1ec2fbe8f941",
+        "year": 2023,
+        "model": "Model X1",
+        "trim": "Superior",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5600
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 36000,
+        "imgSrc": "model_x1"
+    },
+    {
+        "carId": "534e009a-e8e7-4ee1-af77-03283f29f14c",
+        "year": 2023,
+        "model": "Model X1",
+        "trim": "Premier",
+        "colorOption": ["Black", "White", "Grey", "Blue", "Red"],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5600
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 40000,
+        "imgSrc": "model_x1"
+    },
+    {
+        "carId": "3d2fcde5-66c3-4117-b220-7a1af92622f3",
+        "year": 2023,
+        "model": "Model X2",
+        "trim": "Basic",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "FWD",
+        "transmission": "Manual",
+        "price": 34200,
+        "imgSrc": "model_x2"
+    },
+    {
+        "carId": "aa275efb-a9f2-4547-8b37-7f55a07bb1a0",
+        "year": 2023,
+        "model": "Model X2",
+        "trim": "Touring",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "FWD",
+        "transmission": "Automatic",
+        "price": 36200,
+        "imgSrc": "model_x2"
+    },
+    {
+        "carId": "1894f7a5-e187-447d-8fcb-77382750e55b",
+        "year": 2023,
+        "model": "Model X2",
+        "trim": "Advance",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 38200,
+        "imgSrc": "model_x2"
+    },
+    {
+        "carId": "cb3bd49a-0ca8-47aa-8ecc-f4e730571f53",
+        "year": 2023,
+        "model": "Model X2",
+        "trim": "Superior",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5600
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 40200,
+        "imgSrc": "model_x2"
+    },
+    {
+        "carId": "ea763202-5f5f-4cf2-9b18-87ef05befc80",
+        "year": 2023,
+        "model": "Model X2",
+        "trim": "Premier",
+        "colorOption": ["Black", "White", "Grey", "Blue", "Red"],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5600
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 44200,
+        "imgSrc": "model_x2"
+    },
+    {
+        "carId": "501a4101-fe07-4ea8-9d82-ca8cc1e80c78",
+        "year": 2023,
+        "model": "Model X3",
+        "trim": "Basic",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 187,
+            "rpm": 6000
+        },
+        "drivetrain": "FWD",
+        "transmission": "Manual",
+        "price": 38400,
+        "imgSrc": "model_x3"
+    },
+    {
+        "carId": "b6bc515b-9a44-4332-aa2f-15efd9209ad9",
+        "year": 2023,
+        "model": "Model X3",
+        "trim": "Touring",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 187,
+            "rpm": 6000
+        },
+        "drivetrain": "FWD",
+        "transmission": "Automatic",
+        "price": 40400,
+        "imgSrc": "model_x3"
+    },
+    {
+        "carId": "26c0bd81-553c-4764-b418-d777e0b99d4f",
+        "year": 2023,
+        "model": "Model X3",
+        "trim": "Advance",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 187,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 42400,
+        "imgSrc": "model_x3"
+    },
+    {
+        "carId": "d7570604-2e3e-47bb-a86d-bb6641206632",
+        "year": 2023,
+        "model": "Model X3",
+        "trim": "Superior",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 187,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 44400,
+        "imgSrc": "model_x3"
+    },
+    {
+        "carId": "e7c3c42e-f13c-4a33-b8e8-b8964c853a18",
+        "year": 2023,
+        "model": "Model X3",
+        "trim": "Premier",
+        "colorOption": ["Black", "White", "Grey", "Blue", "Red"],
+        "power": {
+            "horsePower": 187,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 48400,
+        "imgSrc": "model_x3"
+    },
+    {
+        "carId": "bc78757d-a227-46f6-a44f-5b151d40f71b",
+        "year": 2023,
+        "model": "Model X4",
+        "trim": "Basic",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 187,
+            "rpm": 6000
+        },
+        "drivetrain": "FWD",
+        "transmission": "Manual",
+        "price": 42600,
+        "imgSrc": "model_x4"
+    },
+    {
+        "carId": "e8321c47-dca5-4263-8382-db1ede191133",
+        "year": 2023,
+        "model": "Model X4",
+        "trim": "Touring",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 187,
+            "rpm": 6000
+        },
+        "drivetrain": "FWD",
+        "transmission": "Automatic",
+        "price": 44600,
+        "imgSrc": "model_x4"
+    },
+    {
+        "carId": "01c01bb4-0af2-43fb-bed4-15ba81d579b7",
+        "year": 2023,
+        "model": "Model X4",
+        "trim": "Advance",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 187,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 46600,
+        "imgSrc": "model_x4"
+    },
+    {
+        "carId": "02e3778c-135c-48a8-aad7-891e687229e8",
+        "year": 2023,
+        "model": "Model X4",
+        "trim": "Superior",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 187,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 48600,
+        "imgSrc": "model_x4"
+    },
+    {
+        "carId": "d52fb5b9-81d3-4d0d-893d-fb4b7988c3a0",
+        "year": 2023,
+        "model": "Model X4",
+        "trim": "Premier",
+        "colorOption": ["Black", "White", "Grey", "Blue", "Red"],
+        "power": {
+            "horsePower": 187,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 52600,
+        "imgSrc": "model_x4"
+    },
+    {
+        "carId": "bad17dda-7098-4420-a511-f3e532d5d36e",
+        "year": 2023,
+        "model": "Model X5",
+        "trim": "Basic",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 260,
+            "rpm": 5600
+        },
+        "drivetrain": "FWD",
+        "transmission": "Manual",
+        "price": 44800,
+        "imgSrc": "model_x5"
+    },
+    {
+        "carId": "6da27750-2a2b-4db9-b23d-f94b9746add0",
+        "year": 2023,
+        "model": "Model X5",
+        "trim": "Touring",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 260,
+            "rpm": 5600
+        },
+        "drivetrain": "FWD",
+        "transmission": "Automatic",
+        "price": 46800,
+        "imgSrc": "model_x5"
+    },
+    {
+        "carId": "df6b0d05-3a53-467a-a5a0-fa649e7f54cb",
+        "year": 2023,
+        "model": "Model X5",
+        "trim": "Advance",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 260,
+            "rpm": 5600
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 48800,
+        "imgSrc": "model_x5"
+    },
+    {
+        "carId": "c2cd726d-216f-483a-978c-22907793996a",
+        "year": 2023,
+        "model": "Model X5",
+        "trim": "Superior",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 260,
+            "rpm": 5600
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 50800,
+        "imgSrc": "model_x5"
+    },
+    {
+        "carId": "64de6d60-d488-4aa1-8e0c-a5faad2bc892",
+        "year": 2023,
+        "model": "Model X5",
+        "trim": "Premier",
+        "colorOption": ["Black", "White", "Grey", "Blue", "Red"],
+        "power": {
+            "horsePower": 260,
+            "rpm": 5600
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 54800,
+        "imgSrc": "model_x5"
+    }
+]

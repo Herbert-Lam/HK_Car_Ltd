@@ -1,0 +1,36 @@
+html .modals {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    position: fixed;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.25);
+    overflow-y: scroll;
+}
+
+html .modals_content {
+    /* width: 70%; */
+    background-color: white;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    text-align: center;
+    /* overflow-y: scroll; */
+}
+
+h4 {
+    font-weight: 1000;
+}
+
+#alert-btn-group{
+    display:flex;
+    justify-content: center;
+}
+
+#alert-btn-group button {
+    margin-left: 20px;
+    margin-right: 20px;
+}

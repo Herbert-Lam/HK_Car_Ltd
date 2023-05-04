@@ -1,0 +1,32 @@
+#contactus-div {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.title {
+  font-weight: 700;
+  margin-bottom: 20px;
+  font-size: 2.5vmax;
+}
+
+.contactus-item-div {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.content-p {
+  margin: 0px;
+  font-size: 1.3vmax;
+  line-height: 1.5em;
+  margin-bottom: 30px;
+}
+
+.list {
+  margin: 0px;
+  padding-left: 60px;
+}
+
+#google-map-div {
+  width: 40%;
+}

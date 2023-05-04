@@ -1,0 +1,377 @@
+[
+    {
+        "carId": "7d8a6183-0c19-4ee1-9f07-c7f67d47a432",
+        "year": 2023,
+        "model": "Model R1",
+        "trim": "Basic",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 152,
+            "rpm": 6000
+        },
+        "drivetrain": "FWD",
+        "transmission": "Manual",
+        "price": 25000,
+        "imgSrc": "model_r1"
+    },
+    {
+        "carId": "7865a43d-3f04-4014-83cd-cab84529ddd5",
+        "year": 2023,
+        "model": "Model R1",
+        "trim": "Touring",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 152,
+            "rpm": 6000
+        },
+        "drivetrain": "FWD",
+        "transmission": "Automatic",
+        "price": 27000,
+        "imgSrc": "model_r1"
+    },
+    {
+        "carId": "b4e93be5-eca8-4eb9-9566-b810d91d9dc7",
+        "year": 2023,
+        "model": "Model R1",
+        "trim": "Advance",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 152,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 29000,
+        "imgSrc": "model_r1"
+    },
+    {
+        "carId": "9331088a-a607-4a6e-acb0-a5a7f8425b7d",
+        "year": 2023,
+        "model": "Model R1",
+        "trim": "Superior",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 152,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 31000,
+        "imgSrc": "model_r1"
+    },
+    {
+        "carId": "79a2b47e-aed5-4f62-a6b1-87cfaa5c4f3c",
+        "year": 2023,
+        "model": "Model R1",
+        "trim": "Premier",
+        "colorOption": ["Black", "White", "Grey", "Blue", "Red"],
+        "power": {
+            "horsePower": 152,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 35000,
+        "imgSrc": "model_r1"
+    },
+    {
+        "carId": "24b0dc11-2552-461c-bd0b-806e5c663042",
+        "year": 2023,
+        "model": "Model R2",
+        "trim": "Basic",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 152,
+            "rpm": 6000
+        },
+        "drivetrain": "FWD",
+        "transmission": "Manual",
+        "price": 29200,
+        "imgSrc": "model_r2"
+    },
+    {
+        "carId": "08f39502-5c4a-4f5d-82ff-4cadc2ae5bd4",
+        "year": 2023,
+        "model": "Model R2",
+        "trim": "Touring",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 152,
+            "rpm": 6000
+        },
+        "drivetrain": "FWD",
+        "transmission": "Automatic",
+        "price": 31200,
+        "imgSrc": "model_r2"
+    },
+    {
+        "carId": "995b62ea-35d6-44ef-bcf1-8dd2d255512c",
+        "year": 2023,
+        "model": "Model R2",
+        "trim": "Advance",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 152,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 33200,
+        "imgSrc": "model_r2"
+    },
+    {
+        "carId": "e9a95956-a6cc-4b94-a8a2-5b23c2bd2fa8",
+        "year": 2023,
+        "model": "Model R2",
+        "trim": "Superior",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 152,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 35200,
+        "imgSrc": "model_r2"
+    },
+    {
+        "carId": "d1917d5f-ca10-4ea1-9385-d84dd27bbcc8",
+        "year": 2023,
+        "model": "Model R2",
+        "trim": "Premier",
+        "colorOption": ["Black", "White", "Grey", "Blue", "Red"],
+        "power": {
+            "horsePower": 152,
+            "rpm": 6000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 39200,
+        "imgSrc": "model_r2"
+    },
+    {
+        "carId": "e7d0e902-63a2-4514-a3e6-5f233fcec40b",
+        "year": 2023,
+        "model": "Model R3",
+        "trim": "Basic",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "FWD",
+        "transmission": "Manual",
+        "price": 33400,
+        "imgSrc": "model_r3"
+    },
+    {
+        "carId": "be144488-00d5-40a4-8dd9-1b0090b4fd65",
+        "year": 2023,
+        "model": "Model R3",
+        "trim": "Touring",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "FWD",
+        "transmission": "Automatic",
+        "price": 35400,
+        "imgSrc": "model_r3"
+    },
+    {
+        "carId": "3fac2eec-9ec8-4117-bc8e-8e7ded3fee3d",
+        "year": 2023,
+        "model": "Model R3",
+        "trim": "Advance",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 37400,
+        "imgSrc": "model_r3"
+    },
+    {
+        "carId": "1d341dd8-ebf8-4693-a651-2b421f5a656f",
+        "year": 2023,
+        "model": "Model R3",
+        "trim": "Superior",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 39400,
+        "imgSrc": "model_r3"
+    },
+    {
+        "carId": "45ab2ffe-dd1a-40de-9c79-0e40e38e452b",
+        "year": 2023,
+        "model": "Model R3",
+        "trim": "Premier",
+        "colorOption": ["Black", "White", "Grey", "Blue", "Red"],
+        "power": {
+            "horsePower": 182,
+            "rpm": 5800
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 43400,
+        "imgSrc": "model_r3"
+    },
+    {
+        "carId": "ec8a8d85-a959-4802-9ec2-7c7dbca82e0c",
+        "year": 2023,
+        "model": "Model R4",
+        "trim": "Basic",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 271,
+            "rpm": 5600
+        },
+        "drivetrain": "FWD",
+        "transmission": "Manual",
+        "price": 37600,
+        "imgSrc": "model_r4"
+    },
+    {
+        "carId": "950e348f-2a8f-417c-88b1-b14b272310eb",
+        "year": 2023,
+        "model": "Model R4",
+        "trim": "Touring",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 271,
+            "rpm": 5600
+        },
+        "drivetrain": "FWD",
+        "transmission": "Automatic",
+        "price": 39600,
+        "imgSrc": "model_r4"
+    },
+    {
+        "carId": "f3a47795-0fc8-426e-b5d8-d64c64473ebc",
+        "year": 2023,
+        "model": "Model R4",
+        "trim": "Advance",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 271,
+            "rpm": 5600
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 41600,
+        "imgSrc": "model_r4"
+    },
+    {
+        "carId": "ba5572ab-b4f4-43a9-a7c6-273b8e8aee4c",
+        "year": 2023,
+        "model": "Model R4",
+        "trim": "Superior",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 271,
+            "rpm": 5600
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 43600,
+        "imgSrc": "model_r4"
+    },
+    {
+        "carId": "0a5d9b14-b2ee-413a-8cab-f071248df94b",
+        "year": 2023,
+        "model": "Model R4",
+        "trim": "Premier",
+        "colorOption": ["Black", "White", "Grey", "Blue", "Red"],
+        "power": {
+            "horsePower": 271,
+            "rpm": 5600
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 48600,
+        "imgSrc": "model_r4"
+    },
+    {
+        "carId": "e7462b3a-f5e8-4739-9be1-00609415c344",
+        "year": 2023,
+        "model": "Model R5",
+        "trim": "Basic",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 228,
+            "rpm": 7000
+        },
+        "drivetrain": "FWD",
+        "transmission": "Manual",
+        "price": 39800,
+        "imgSrc": "model_r5"
+    },
+    {
+        "carId": "cfddb09a-ad48-411f-a994-222df88a879d",
+        "year": 2023,
+        "model": "Model R5",
+        "trim": "Touring",
+        "colorOption": ["Black", "White", "Grey", "", ""],
+        "power": {
+            "horsePower": 228,
+            "rpm": 7000
+        },
+        "drivetrain": "FWD",
+        "transmission": "Automatic",
+        "price": 41800,
+        "imgSrc": "model_r5"
+    },
+    {
+        "carId": "e8efa3a6-04ea-4bed-8093-80f42300999f",
+        "year": 2023,
+        "model": "Model R5",
+        "trim": "Advance",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 228,
+            "rpm": 7000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 43800,
+        "imgSrc": "model_r5"
+    },
+    {
+        "carId": "f1bc78b6-18bf-40dd-a45d-05992d834544",
+        "year": 2023,
+        "model": "Model R5",
+        "trim": "Superior",
+        "colorOption": ["Black", "White", "Grey", "Blue", ""],
+        "power": {
+            "horsePower": 228,
+            "rpm": 7000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 45800,
+        "imgSrc": "model_r5"
+    },
+    {
+        "carId": "7eb0f249-3d65-4f82-82ba-3cda0eae4023",
+        "year": 2023,
+        "model": "Model R5",
+        "trim": "Premier",
+        "colorOption": ["Black", "White", "Grey", "Blue", "Red"],
+        "power": {
+            "horsePower": 228,
+            "rpm": 7000
+        },
+        "drivetrain": "AWD",
+        "transmission": "Automatic",
+        "price": 49800,
+        "imgSrc": "model_r5"
+    }
+]
