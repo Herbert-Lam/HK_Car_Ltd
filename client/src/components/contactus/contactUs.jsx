@@ -13,7 +13,7 @@ const ContactUs = () => {
             <div id="contactus-div">
                 <div id="contactus-content-div">
                     <h1 className="title">Visit us at New West!</h1>
-                    <p className="content-p">
+                    <div className="content-p">
                         <div className="contactus-item-div">
                             Address:
                             <ul className="list">
@@ -37,7 +37,7 @@ const ContactUs = () => {
                                 <li>Saturday, Sunday and Public Holiday:  10:00am - 6:00pm</li>
                             </ul>
                         </div>
-                    </p>
+                    </div>
                 </div>
                 <Map />
             </div>

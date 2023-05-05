@@ -24,7 +24,7 @@ app.listen(port, () => {
 //////1. READ OPERATION
 app.get("/api/sedaninfo", async (req, res) => {
   try {
-    await mongoose.connect(`mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.lyhnojf.mongodb.net/Cars`);
+    await mongoose.connect(url);
     console.log("DB connected - Sedan");
     SedanModel.find((err, sedans) => {
       if (err) {
