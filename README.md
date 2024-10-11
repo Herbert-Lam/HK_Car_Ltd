@@ -13,4 +13,4 @@ There is an admin page for internal staff to add/edit/delete car(s). When an adm
 
 We also use Google map API in the "contact us" page for demonstrating using external API service. The API link may not be valid as time goes by.
 
-Output video: https://drive.google.com/file/d/1RqvvZmHMm7Wdysw-g8CUMaq_mWpwiG_a/view?usp=share_link
+Output video: https://drive.google.com/file/d/1lTHiE-suzsuddo4n-hMWFfEAs1qW-Ign/view?usp=sharing
